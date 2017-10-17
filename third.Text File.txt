@@ -1,2 +1,11 @@
 ankit singh
+<<<<<<< HEAD
 Amit Singh
+=======
+<<<<<<< HEAD
+deepak singh
+=======
+Amit Singh
+>>>>>>> ad45267... i am commiting third text file.
+Ajay singh
+>>>>>>> d284117... i have modified third text file
